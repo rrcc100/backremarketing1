@@ -1,0 +1,7 @@
+flask
+flask-cors
+pandas
+sqlalchemy
+mysql-connector-python
+google-ads
+python-dotenv
